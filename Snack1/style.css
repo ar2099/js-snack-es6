@@ -1,0 +1,27 @@
+/* RESET E IMPOSTAZIONI GENERALI */
+
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body {
+  margin: 20px;
+}
+input {
+  background-color: aquamarine;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+button {
+  padding: 10px;
+}
