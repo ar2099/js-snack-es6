@@ -1,0 +1,50 @@
+/* RESET E IMPOSTAZIONI GENERALI */
+
+* {
+    margin: 5px;
+    border: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#min {
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid black;
+    width: 250px;
+}
+
+#max {
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid black;
+    width: 250px;
+}
+
+#invia {
+    padding: 10px;
+}
+
+#min2 {
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid black;
+    width: 250px;
+}
+
+#max2 {
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid black;
+    width: 250px;
+}
+
+#invia2 {
+    padding: 10px;
+}
